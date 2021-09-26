@@ -1,0 +1,11 @@
+{
+  "calandar": "27 Mai 2021",
+  "name": "RemasteredCurrency",
+  "description": "RemasteredCurrency is a Swift package, which brings together all the currencies of the world, with an integrated conversion system.",
+  "url": "https://github.com/kanekireal/RemasteredCurrency",
+  "author": "Wesley Levasseur",
+  "authorUrl": "ttps://github.com/kanekireal",
+  "background": "https://raw.githubusercontent.com/kanekireal/RemasteredCurrency/main/background.jpg",
+  "version": "1.0.0",
+  "language": "swift"
+}

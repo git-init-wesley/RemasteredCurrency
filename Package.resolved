@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RemasteredJson",
+        "repositoryURL": "https://github.com/kanekireal/RemasteredJson.git",
+        "state": {
+          "branch": null,
+          "revision": "ba119f284ca3a27ebe9214edf74e19e738365484",
+          "version": "1.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
